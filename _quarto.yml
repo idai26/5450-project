@@ -1,0 +1,24 @@
+project:
+  type: manuscript
+  render:
+    - final_report.qmd
+
+manuscript:
+  article: final_report.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: true
+    fig-cap-location: bottom
+    fig-align: center
+    embed-resources: true
+    smooth-scroll: true
+    code-fold: true
+    code-summary: "Show code"
+
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl
