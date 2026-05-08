@@ -3,9 +3,15 @@ project:
   output-dir: docs
   render:
     - final_report.qmd
+  resources:
+    - generate_figures.py
 
 manuscript:
   article: final_report.qmd
+  code-links:
+    - text: generate_figures.py
+      icon: file-code
+      href: generate_figures.py
 
 format:
   html:

@@ -2,7 +2,7 @@
 title: "[Title TBD]"
 subtitle: "DSAN 5450 — Final Project"
 author: "Isak Dai"
-date: "May 2026"
+date: "May 8, 2026"
 ---
 
 ```{=html}
