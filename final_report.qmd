@@ -1,5 +1,5 @@
 ---
-title: "[Title TBD]"
+title: "The Magical Disappearing Swing Voter: Microtargeting and Commercial Data in Electoral Campaigns"
 subtitle: "DSAN 5450 — Final Project"
 author: "Isak Dai"
 date: "May 8, 2026"
@@ -548,7 +548,9 @@ What is a way out of this narrowing of the electorate? Limiting the ability of c
 
 Racial data is especially sensitive, as the strong correlation between race and partisanship may remove Black voters in particular from the pool of swing voters a campaign might focus its heaviest outreach efforts on. One complicating factor is that campaigns are twofold - they want to convince fence-sitters to join their camp and insure their base voters come out to vote. Likely Democrats will receive GOTV efforts from the campaign, but this often comes late in the campaign and may also be influenced by campaigns modeling an individual's likelihood to vote. While this project does not explore how accurately voter file data predicts voter turnout (and if consumer data improves this prediction), this is another important consideration for policymakers. Just as demographic partisanship models may shunt certain voters out of the pool of swing voters, turnout models may exclude people from democratic engagement if campaigns predict they are unlikely to vote. 
 
+There are other structural issues driving increased voter apathy and cynicism, from rampant gerrymandering to increased corruption in government. However, the use of precise modeling to determine voter behavior may be powerful tool for campaigns to narrow and silo the electorate, potentially exacerbating these issues. It is easy to imagine a self-reinforcing cycle wherein voters predicted to have low likelihood to vote are contacted less often, leading to increased apathy or less knowledge of the democratic process. The modeling of voter behavior could thus become a self-fulfilling prophecy, with predictions of turnout sharpened by consumer data. The same could be true for political polarization. If campaigns begin only talking to their base for GOTV or potential swing voters, there might be a feedback loop where volunteers and candidates become more isolated from the broader electorate. The same would be true for voters who no longer get direct outreach from one party, creating a one-sided political landscape. 
 
+The larger ethics of political data modeling are ripe for discussion, but in particular, the use of consumer data to microtarget voters unlocks a level of precision in targeting that could uniquely hollow out the democratic process. This is especially troubling for certain demographic groups more likely to be excluded from the process according to our results, like Black voters and voters with a high school education or less. If the data available to campaigns to model voter behavior were restricted to only what they could find on the voter file, these groups might be less likely to be excluded from the democratic process. Keeping consumer data out of campaigns' hands would be a step in the right direction, especially as it could limit their ability to model certain sensitive variables like education, race, or income.
 
 ---
 
