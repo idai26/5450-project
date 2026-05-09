@@ -3,6 +3,7 @@ title: "The Magical Disappearing Swing Voter: Microtargeting and Commercial Data
 subtitle: "DSAN 5450 — Final Project"
 author: "Isak Dai"
 date: "May 8, 2026"
+abstract: "This project considers the use of consumer data in electoral campaigns, specifically how campaigns use datasets beyond the voterfile to microtarget voters to increase support and turnout. Using data from the Cooperative Election Study, I build random forest models to predict voters' partisan preferences. I simulate the effects of adding consumer data by comparing the accuracy of the threee models – the first built only with age and gender, the second adding race, and the third adding a proxy for consumer data in the form of education, income, marital status, employment, home ownership, and stock market participation. I find that adding consumer data to the model results in marginal improvements in the accuracy of the model, but with more robust changes with certain demographic groups like Black voters and voters with less than a high school education. I find that the use of consumer data in political trageting should be limited to avoid a self-fulfilling prophecy of voter exclusion and apathy."
 ---
 
 ```{=html}
